@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &hectoricm
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -83,11 +83,11 @@ author:
   name             : "Ali Soveizi"
   avatar           : "profile.jpeg"
   bio              : "M.Sc. Student in C.E Amirkabir University of Technology"
-  location         : "Tehran-Iran"
+  location         : "Tehran,Iran"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "suviziali@gmail.com"
+  email            : "alisuvizi@aut.ac.ir"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,10 +99,10 @@ author:
   github           : "alisuvizi"
   google_plus      :
   keybase          :
-  instagram        : "aboutelamiro"
+  instagram        : "alisoveizi"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "Ali Soveizi "
   orcid            : 
   pinterest        :
   soundcloud       :
