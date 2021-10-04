@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Micro Processor Lab"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "Workshop"
+permalink: /teaching/2020-fall-teaching-1
+venue: "Amirkabir University, Computer Eng. and IT Dept."
+date: 2020-09-22
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+ Under supervision of [**Dr. Farbeh**](https://aut.ac.ir/cv/2158/%d8%ad%d8%a7%d9%85%d8%af%20%d9%81%d8%b1%d8%a8%d9%87)
