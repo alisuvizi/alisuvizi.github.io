@@ -9,51 +9,74 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+* Deep Reinforcement Learning
+* Financial Prediction
+* Natural Language Processing
+* Automatic Speech Recognition
+* Computer Vision
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Amirkabir University of Technology**, (Tehran Polytechnic), Tehran, Iran
+  * M.Sc, Computer Engineering - Computer Systems Architecture, 2019 - Present (expected)
+  * Advisior: Dr. Hamed Farbeh
+  * Master’s Thesis: ”A customized Neuromorphic Architecture for Financial Markets based on Reinforcement Learning”.
+  * GPA: **3.88**/4 ≃ **17.50**/20
+* **Shahid Bahonar University of Kerman**, Kerman, Iran
+  * B.Sc, Computer Engineering, 2015 - 2019
+  * Advisor: Dr. Abbas Niknafs
+  * Bachelor’s Thesis: ”Implementation Of Data Mining Algorithms and Analysis Of Their Results”.
+  * GPA: **3**/4 ≃ **15.20**/20
 
-Work experience
+Publications and Preprints
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **S. A. Saeidi**, F. Fallah, S. Barmaki, H. Farbeh, ”A Novel Neuromorphic Processors Realization of Spiking Deep Reinforcement Learning for Portfolio Management” Design, Automation & Test in Europe Conference & Exhibition (DATE), 2022, Submitted.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research and Work Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **ICCI Lab at Amirkabir University of Technology** (September  2019 - Present) <br/>
+  * Supervisor: Dr. Hamed Farbeh
+  * Intelligent Computing and Communication Infrastructure, Implementing VoiceBots and ChatBots
+  * Designing  AI Processor Low Power for Machine Learning Algorithm,  Researched on Neuromorphic Computing and Neuromorphic Processor
 
-Publications
+* **High Performance Computing Lab in Amirkabir University of Technology** (February 2021 - Present) <br/>
+  * Supervisor: Dr. Ahmad Motamedi
+  * Designed and Implementation Artificial Intelligence Services
+
+Notable Projects
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Intent Classification**
+* **Name Entity Recognition**
+* **Text Inference**
+* **Poetry Production**
+* **Implemented Tacotron2**
+* **Speech To Text with Free Language Model based Transformers**
+* **MountainCar-V**
+* **Implementing DDPG**
+* **Implementing A3C**
+* **Generating New Pokemon Picture with Generative Adversarial Network (GAN)**
+* **Deep Blief Network**
+* **AutoEncoder**
+* **Self Organizing Map Networks (SOM)**
+* **Implementing Portfolio Management Site (Django)**
+
+
+Technical Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* **Programming & Scripting Language** <br/>
+  Python, Java, C/C++, OpenMp, CUDA, VHDL/Verilog
+* **Machine Learning Tools** <br/>
+  Transformers, TensorFlow, Keras, PyTorch, scikit-learn, Pandas, NumPy
+* **Web Development** <br/>
+  HTML, CSS, Django, Flask, MySQL, SQLite, PostgreSQL
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  * **Teaching Assistant, Multicore Programming** <br/>
+    Under supervision of Dr. Mahmmud Momtazpour <br/>
+    Design and grading assignments
+  * **Teaching, Micro Processor Lab** <br/>
+    Under supervision of Dr. Hamed Farbeh <br/>
+    Design and grading assignments
