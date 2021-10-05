@@ -37,41 +37,22 @@ Publications and Preprints
 
 Research and Work Experience
 ======
-* **ICCI Lab at Amirkabir University of Technology** (September  2019 - Present) <br/>
-  * Supervisor: Dr. Hamed Farbeh
-  * Intelligent Computing and Communication Infrastructure, Implementing VoiceBots and ChatBots
-  * Designing  AI Processor Low Power for Machine Learning Algorithm,  Researched on Neuromorphic Computing and Neuromorphic Processor
+* **Integrated Systems Design Automation Research Lab Lab at Amirkabir University of Technology** (October  2019 - Present) <br/>
+  * Supervisor: Dr. Morteza Saheb Zamani
+  * Provide a parallel algorithm based on cellular automata to accelerate the hydraulic analysis of Water     distribution networks. This method consists of two stages: producing parallel sub-systems and solving the hydraulic model concurrently by using a linearization-based method.
 
-* **High Performance Computing Lab in Amirkabir University of Technology** (February 2021 - Present) <br/>
-  * Supervisor: Dr. Ahmad Motamedi
-  * Designed and Implementation Artificial Intelligence Services
+* **High Performance Computing Lab in Shahed University of Tehran**  <br/>
+  * Supervisor: Dr.Ehsan Mousavi Khaneghah
+  * ExaMig Matrix: Process Migration based on Matrix Definition of Selecting Destination in Distributed Exascale Environments
 
 Notable Projects
 ======
-* **Intent Classification**
-* **Name Entity Recognition**
-* **Text Inference**
-* **Poetry Production**
-* **Implemented Tacotron2**
-* **Speech To Text with Free Language Model based Transformers**
-* **MountainCar-V**
-* **Implementing DDPG**
-* **Implementing A3C**
-* **Generating New Pokemon Picture with Generative Adversarial Network (GAN)**
-* **Deep Blief Network**
-* **AutoEncoder**
-* **Self Organizing Map Networks (SOM)**
-* **Implementing Portfolio Management Site (Django)**
-
-
-Technical Skills
-======
-* **Programming & Scripting Language** <br/>
-  Python, Java, C/C++, OpenMp, CUDA, VHDL/Verilog
-* **Machine Learning Tools** <br/>
-  Transformers, TensorFlow, Keras, PyTorch, scikit-learn, Pandas, NumPy
-* **Web Development** <br/>
-  HTML, CSS, Django, Flask, MySQL, SQLite, PostgreSQL
+* **Implementing MIPS processor with forwarding module and Tomasulo algorithm.**
+* **Parallel computing of determinants and inverse matrices with OpenMp commands Entity Recognition**
+* **Implementing MIPS processor with HDL language and optimization in Design Compiler**
+* **Implementing Quadratic and Simulated Annealing placement for VLSI circuits design**
+* **Implementing a Distributed system for automatic judging of programming competitions**
+* **Implementing RMI structure with Java without using existing libraries***
 
 Teaching
 ======
@@ -81,3 +62,16 @@ Teaching
   * **Teaching, Micro Processor Lab** <br/>
     Under supervision of Dr. Hamed Farbeh <br/>
     Design and grading assignments
+
+
+Technical Skills
+======
+* **Programming & Scripting Language** <br/>
+  Python, Java, C/C++, VHDL/Verilog , javascript, AVR Assembly, HTML/CSS
+* **Parallel Programming** <br/>
+  OpenMP, Nvidia CUDA
+* **Web Development** <br/>
+  HTML, CSS, Django, Flask, MySQL, SQLite, PostgreSQL
+  * **Tools** <br/>
+  Xilinx Vivado, Xilinx VivadoHLS, Proteus, ModelSim, Apache NetBeans, Eclipse, Visual Studio, Intel Parallel Studio, Matlab, L-Edit, GEM5, Desing Compiler, EPANET
+
