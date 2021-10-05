@@ -9,30 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Research Interests
-======
-* Deep Reinforcement Learning
-* Financial Prediction
-* Natural Language Processing
-* Automatic Speech Recognition
-* Computer Vision
-
 Education
 ======
 * **Amirkabir University of Technology**, (Tehran Polytechnic), Tehran, Iran
   * M.Sc, Computer Engineering - Computer Systems Architecture, 2019 - Present (expected)
-  * Advisior: Dr. Hamed Farbeh
-  * Master’s Thesis: ”A customized Neuromorphic Architecture for Financial Markets based on Reinforcement Learning”.
-  * GPA: **3.88**/4 ≃ **17.50**/20
-* **Shahid Bahonar University of Kerman**, Kerman, Iran
-  * B.Sc, Computer Engineering, 2015 - 2019
-  * Advisor: Dr. Abbas Niknafs
-  * Bachelor’s Thesis: ”Implementation Of Data Mining Algorithms and Analysis Of Their Results”.
-  * GPA: **3**/4 ≃ **15.20**/20
+  * Advisior: Prof. Morteza Saheb Zamani
+  * Master’s Thesis: ”A Parallel Computational Architecture for High-Speed Solving of Hydraulic Equations in Cellular Automaton”.
+  * GPA: **3.79**/4 ≃ **17.30**/20
+* **Shahed University of Tehrann**, Tehran, Iran
+  * B.Sc, Computer Engineering, 2014 - 2018
+  * Advisor:  Dr. Majid Bayat 
+  * Bachelor’s Thesis: ”Investigating the intelligent management of water resources in agriculture and presenting a suggested model”.
+  * GPA: **16.30**/20
+
+Research Interests
+======
+* Computer Architecture
+* High Performance Computing
+* Distributed and Cloud Computing
+* Hydraulic Modeling and Water Resources Management
+* Machine Learning
+
 
 Publications and Preprints
 ======
-* **S. A. Saeidi**, F. Fallah, S. Barmaki, H. Farbeh, ”A Novel Neuromorphic Processors Realization of Spiking Deep Reinforcement Learning for Portfolio Management” Design, Automation & Test in Europe Conference & Exhibition (DATE), 2022, Submitted.
+* ”ExaMig Matrix: Process Migration based on Matrix Definition of Selecting Destination in Distributed Exascale Environments” Azerbaijan Journal of High Performance Computing, 2018, Vol 1, Issue 1, 2018, pp. 20-41.
 
 Research and Work Experience
 ======
