@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant - Multicore Programming"
+title: "Teaching Assistant - Low Power IC Design"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-teaching-1
