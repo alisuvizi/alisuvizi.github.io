@@ -56,12 +56,21 @@ Notable Projects
 
 Teaching
 ======
-  * **Teaching Assistant, Multicore Programming** <br/>
-    Under supervision of Dr. Mahmmud Momtazpour <br/>
-    Design and grading assignments
+  * **Teaching Assistant, Advanced Computer Architecture** <br/>
+    Under supervision of Dr. Hamed Farbeh <br/>
+    Design and grading assignments, Exams and Projects
+  * **Teaching Assistant, Low Power IC Design** <br/>
+    Under supervision of Dr. Mahmoud Momtazpour <br/>
+    Design and grading assignments, Exams and Projects
+  * **Teaching Assistant, Memory Technologies** <br/>
+    Under supervision of Dr. Hamed Farbeh  <br/>
+    Design and grading assignments, Exams and Projects
   * **Teaching, Micro Processor Lab** <br/>
     Under supervision of Dr. Hamed Farbeh <br/>
-    Design and grading assignments
+    Design and grading assignments, Exams and Projects
+  * **Teaching, Logic Circuits Lab** <br/>
+    Under supervision of Dr. Morteza Saheb Zamani <br/>
+    Design and grading assignments, Exams and Projects
 
 
 Technical Skills
