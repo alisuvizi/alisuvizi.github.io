@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant - Advance Computer Architecture"
+title: "Teaching Assistant - Advanced Computer Architecture"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching
