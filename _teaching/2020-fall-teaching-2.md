@@ -9,3 +9,4 @@ location: "City, Country"
 ---
 
  Under supervision of [*Dr. Saheb Zamani*](https://aut.ac.ir/cv/2505/%d9%85%d8%b1%d8%aa%d8%b6%db%8c%20%d8%b5%d8%a7%d8%ad%d8%a8%20%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%86%db%8c)
+ and [*Dr. Sedighi*](https://aut.ac.ir/cv/2365/%d9%85%d9%87%d8%af%db%8c%20%d8%b5%d8%af%db%8c%d9%82%db%8c)
