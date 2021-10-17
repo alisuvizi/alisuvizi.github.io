@@ -86,9 +86,9 @@ author:
   location         : "Tehran, Iran"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=FnYbKDAAAAAJ&hl=en&authuser=2"
   email            : "alisuvizi@aut.ac.ir"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ali-Soveizi"
   uri              :
   bitbucket        :
   codepen          :
