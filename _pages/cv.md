@@ -28,6 +28,7 @@ My work spans physical FPGA/SoC implementations, embedded firmware, computer arc
 
 - Advisor: Prof. Guru Prasadh Venkataramani
 - Research: Computer architecture, reliable FPGA/SoC systems, chiplet-based architectures, hardware-software co-design, and AI acceleration.
+- GPA: 3.85/4
 
 ### Amirkabir University of Technology (Tehran Polytechnic)
 **M.Sc. in Computer Engineering – Computer Systems Architecture** | Tehran, Iran
