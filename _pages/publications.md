@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "Publications"
@@ -7,25 +6,27 @@ author_profile: true
 ---
 
 <p>
-My research spans computer architecture, hardware-software co-design,
-high-performance computing, reliable FPGA/SoC systems, chiplet-based
-architectures, and efficient AI acceleration.
-My work has been published in peer-reviewed ACM and IEEE conferences
-and journals, including ACM ICS, ACM GLSVLSI, and IEEE TCAD.
+My research covers computer architecture, hardware-software co-design,
+high-performance computing, FPGA/SoC systems, chiplet-based architectures,
+and efficient AI acceleration.
 </p>
 
 <p>
-A complete and updated record of my research publications is also
-available through my
+My research has been published in peer-reviewed ACM and IEEE
+conferences and journals, including ACM ICS, ACM GLSVLSI,
+and IEEE TCAD.
+</p>
+
+<p>
+For a complete publication list, please visit my
 <a href="https://scholar.google.com/citations?user=FnYbKDAAAAAJ">
 Google Scholar profile</a>.
 </p>
 
 <p>
-<strong>Research recognition:</strong>
+<strong>Research Recognition:</strong>
 Best Paper Award, IEEE Cloud Summit 2026,
-for collaborative research on information-freshness-aware
-scheduling in chiplet-based systems.
+for collaborative research on chiplet-based scheduling.
 </p>
 
 <hr>
