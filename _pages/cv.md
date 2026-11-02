@@ -60,7 +60,6 @@ My work spans physical FPGA/SoC implementations, embedded firmware, computer arc
 - AI and Machine Learning Accelerators
 - Heterogeneous Digital-Photonic Computing
 - Energy-Efficient Computing and Memory Systems
-- Distributed and Edge Computing
 
 ---
 
