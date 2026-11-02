@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+ 
 ## About Me
 
 I am **Ali Suvizi**, a Ph.D. researcher in Computer Engineering at **The George Washington University (GWU)**, advised by **Prof. Guru Prasadh Venkataramani**.
