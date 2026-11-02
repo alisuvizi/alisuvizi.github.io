@@ -19,6 +19,24 @@ My work spans physical FPGA/SoC implementations, embedded firmware, computer arc
 
 ---
 
+## Download My Resume
+
+I am a Ph.D. researcher specializing in computer architecture,
+hardware-software co-design, FPGA/SoC systems, chiplet-based
+architectures, hardware reliability, and AI acceleration.
+
+My resume provides an overview of my technical expertise,
+research experience, projects, publications, and professional
+achievements.
+
+**[Download My Resume (PDF)](/files/Ali_Suvizi_Resume.pdf)**
+
+For a more detailed overview of my academic background,
+publications, research experience, teaching, and professional
+service, please see the complete CV below.
+
+---
+
 ## Education
 
 ### The George Washington University
